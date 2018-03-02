@@ -1,0 +1,8 @@
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\bin\Debug\netstandard2.0\BowlingKata.Tests.deps.json
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\bin\Debug\netstandard2.0\BowlingKata.Tests.dll
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\bin\Debug\netstandard2.0\BowlingKata.Tests.pdb
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\obj\Debug\netstandard2.0\BowlingKata.Tests.csproj.CoreCompileInputs.cache
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\obj\Debug\netstandard2.0\BowlingKata.Tests.AssemblyInfoInputs.cache
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\obj\Debug\netstandard2.0\BowlingKata.Tests.AssemblyInfo.cs
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\obj\Debug\netstandard2.0\BowlingKata.Tests.dll
+C:\TomGIT\BowlingKataCore\BowlingKata.Tests\obj\Debug\netstandard2.0\BowlingKata.Tests.pdb
